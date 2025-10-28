@@ -9,4 +9,11 @@ display: flex;
     width: 15rem;
     margin-left: 5rem;
 }
-
+.imgcontainer2{
+    width: 20rem;
+    height: 30rem;
+    margin-left: 5rem;
+}
+body{
+    background-image: url(/pictures/background.png);
+}
