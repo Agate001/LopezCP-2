@@ -1,0 +1,12 @@
+.navcolor{
+    color:#6BD5FF;
+}
+.box{
+display: flex;
+  justify-content: left;   
+}
+.imgcontainer{
+    width: 15rem;
+    margin-left: 5rem;
+}
+
